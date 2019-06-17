@@ -1,2 +1,2 @@
-# Pr-cticas
-Practias para Progra
+# Prácticas
+Práctias de la materia Programación
